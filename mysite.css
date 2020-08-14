@@ -103,8 +103,8 @@ a:hover{
 . mountain {
   position: absolute;
   left:200px;
-  bottom:0px;
-  margin-bottom:0;
+ padding-bottom:0px;
+  
 
 }
 
