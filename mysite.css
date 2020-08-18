@@ -3,7 +3,7 @@
   margin:0;
   text-align:center;
   font-family: 'Merriweather', serif;
-  font-size:200%;
+ 
 }
 .who-am-i{
   color:#66BFBF;
@@ -56,18 +56,18 @@ a:hover{
 .top-container{
   background-color:#E4F9F5;
   position:relative;
-  padding:150px;
 }
 
 .middle-container{
-  margin:100px 0;
+  margin:90px 0;
   
   
 }
 
 .bottom-container{
   background-color:#66BFBF;
-  padding:50px 0 20px;
+  padding:50px 0;
+  line-height: 40px;
  
   
 }
@@ -95,23 +95,15 @@ a:hover{
 }
 
 .top-cloud{
- position: absolute;
- right:200px;
- top:100px;
-}
-
-. mountain {
-  position: absolute;
-  left:200px;
- bottom:0px;
-  
-
+ position: relative;
+ margin-top:50px;
+ left:300px;
 }
 
 
 .bottom-cloud{
   position: absolute;
-  left:200px;
+  left:300px;
   bottom:300px;
 }
 
